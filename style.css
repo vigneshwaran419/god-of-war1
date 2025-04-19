@@ -1,0 +1,78 @@
+*{
+    margin: o;
+    padding: 0;
+    box-sizing: border-box;
+}
+ @media screen and (max-width: 1024px),(min-width: 300px){
+
+ }
+    
+ 
+
+
+    
+
+ 
+.nav{
+
+    position: sticky;
+    top: 0;
+   
+    display:flex;
+     background-image: url("./god\ nav\ nav.jpeg");
+     background-repeat: no-repeat;
+     background-size: 100% 100%;
+      
+   justify-content: space-between;
+   border: 1px solid;
+   padding: 8px 10px 2px 15px;
+}
+.nav button{
+     margin-left: 890px;
+      margin-top: 8px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 20px ;
+    padding-left: 20px;
+     
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+.box2{
+    background-image: url("./god\ 2.jpeg");
+    background-size: 100% 100%;
+    height: 100% ;width: 100%;
+    padding-left: 120px;
+   padding-top: 70px;
+   padding-bottom: 20px;
+}
+.box3{
+    background-image: url("./3\ rd\ back.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 600px;
+    padding-top: 100px;
+    padding-left: 60px;
+}
+.box4{
+    
+    display: flex;
+    justify-content: space-between;
+   
+    background-color: blue;
+}
+.box4 h1{
+    padding-left: 100PX;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.nas1 li {
+    padding-top: 10px;
+}
